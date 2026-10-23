@@ -1,3 +1,5 @@
 CompileFlags:
   Add:
   - -I/home/minemobs/Documents/dosbox-x/djgpp_203_pc98/djgpp/include
+  - -std=c89
+  - -Wall
